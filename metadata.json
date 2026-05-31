@@ -1,0 +1,6 @@
+{
+  "name": "CBE Birr Plus Clone",
+  "description": "High-fidelity static visual clone of the CBE Birr Plus mobile app interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
